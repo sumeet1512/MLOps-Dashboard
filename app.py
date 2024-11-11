@@ -8,8 +8,8 @@ st.title("Sales KPI Dashboard with 2 charts")
 st.markdown('## Key Metrics')
 
 col1, col2, col3 = st.columns(3)
-col1.metric(label = "SPDR S&P 500", value = '%.2f' %200.12 , delta = "-$1.25")
-col2.metric("FTEC", "$121.10", "0.46%")
+col1.metric(label = "SPDR S&P 500", value = '%.2f' %100.12 , delta = "-$1.25")
+col2.metric("FTEC", "$21.10", "0.46%")
 col3.metric("BTC", "$46,583.91", "+4.87%")
 
 st.markdown('## Detailed Charts')
