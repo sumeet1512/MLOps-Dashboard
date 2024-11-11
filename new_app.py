@@ -2,7 +2,7 @@ import streamlit as st #web app
 import pandas as pd # data manipulation
 import numpy as np # random gen
 
-st.title("Marketing KPI - Key Metric Dashboard")
+st.title("New KPI Dashboard")
 
 st.subheader("using Python 🚀 📈")
 
