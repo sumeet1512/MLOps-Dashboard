@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns 
 
-st.title("Sales Dashboard for MLOps with Streamlit")
+st.title("Sales Dashboard with Streamlit-MLOps")
 
 st.markdown('## Key Metrics')
 
